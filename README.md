@@ -1,4 +1,2 @@
-# Basic Project
-## This file is modified to include a link to google site
-
-[Google](https://google.com)
+# Shape 
+## Fill, draw, calculate the area and perimeter of the the given geometric figure
